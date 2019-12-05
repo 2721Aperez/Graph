@@ -24,4 +24,5 @@ public:
 	void BFS(int x);
 	void DFS(int vertex);
 	bool isBridge(int u, int v);
+	void reset();
 };
